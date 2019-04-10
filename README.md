@@ -2,6 +2,7 @@
 UC Berkeley Master Capstone Project
 
 #### References:
+* [Everybody dance now](https://arxiv.org/abs/1808.07371)
 * [Pix2PixHD](https://github.com/NVIDIA/pix2pixHD)
 * [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 * [OpenPose ShuffleNet Version](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
