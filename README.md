@@ -2,10 +2,10 @@
 UC Berkeley Master Capstone Project
 
 #### References:
-* [Pix2PixHD](https://github.com/NVIDIA/pix2pixHD).
-* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose).
-* [OpenPose ShuffleNet Version](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation).
-* [iOS Mobile Pose Estimation](https://github.com/tucan9389/PoseEstimation-CoreML).
+* [Pix2PixHD](https://github.com/NVIDIA/pix2pixHD)
+* [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+* [OpenPose ShuffleNet Version](https://github.com/tensorboy/pytorch_Realtime_Multi-Person_Pose_Estimation)
+* [iOS Mobile Pose Estimation](https://github.com/tucan9389/PoseEstimation-CoreML)
 
 #### What We Have Done:
 * Convert OpenPose Caffe models to PyTorch Models with [MMdnn](https://github.com/Microsoft/MMdnn)

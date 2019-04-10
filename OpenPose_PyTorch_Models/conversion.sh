@@ -1,0 +1,1 @@
+mmtocode -f pytorch -n converted_pose.pb --IRWeightPath converted_pose.npy --dstModelPath con_test.py -dw con_test.npy
