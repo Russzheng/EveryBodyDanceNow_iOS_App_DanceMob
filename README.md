@@ -1,5 +1,5 @@
-# EveryBodyDanceNow_iOS_App_DanceMob
-UC Berkeley Master Capstone Project
+# DanceMob: Mobile Real-Time Motion Transfer – iOS
+UC Berkeley Master of Engineering Capstone Project
 
 #### References:
 * [Everybody dance now](https://arxiv.org/abs/1808.07371)
@@ -9,7 +9,7 @@ UC Berkeley Master Capstone Project
 * [iOS Mobile Pose Estimation](https://github.com/tucan9389/PoseEstimation-CoreML)
 
 #### What We Have Done:
-* Convert OpenPose Caffe models to PyTorch Models with [MMdnn](https://github.com/Microsoft/MMdnn)
-* Convert Caffe/PyTorch to CoreML models with [CoreMLTools](https://developer.apple.com/documentation/coreml/converting_trained_models_to_core_ml)
-* Shrink size of detectors and generators
-* Put it into an app
+* Converted OpenPose Caffe models to PyTorch Models with [MMdnn](https://github.com/Microsoft/MMdnn)
+* Converted Caffe/PyTorch to CoreML models with [CoreMLTools](https://developer.apple.com/documentation/coreml/converting_trained_models_to_core_ml)
+* Shrunk size of detectors and generators significantly
+* Deployed both CoreML models in an iOS app
